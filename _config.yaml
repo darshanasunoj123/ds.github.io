@@ -13,7 +13,7 @@ title                    : "Darshana Sunoj"
 title_separator          : "-"
 name                     : &name "Darshana Sunoj"
 description              : &description "personal description"
-url                      : https://ds.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://darshanasunoj123.github.io/ds.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/ds.github.io"
 
