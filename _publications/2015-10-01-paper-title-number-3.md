@@ -8,7 +8,7 @@ buyer is privately informed about the valuation of the object. I characterize co
 relationship is non-monotonic.'
 #date: 2015-10-01
 #venue: 'Journal 1'
-#slidesurl: 'http://academicpages.github.io/files/JMP.pdf'
+#slidesurl: 'https://github.com/darshanasunoj123/ds.github.io/tree/main/files/JMP.pdf'
 paperurl: 'http://ds.github.io/files/JMP.pdf'
 ---
 

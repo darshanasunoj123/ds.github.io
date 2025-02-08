@@ -10,7 +10,7 @@ option is exercised.'
 #date: 2010-10-01
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/TYP.pdf'
+paperurl: 'https://github.com/darshanasunoj123/ds.github.io/tree/main/files/TYP.pdf'
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
