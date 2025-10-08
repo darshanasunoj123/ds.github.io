@@ -79,9 +79,9 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
+  research:
     title: 'Working Papers'    
-  conferences:
+  workinprogress:
     title: 'Work in Progress'
 
 # Site Settings
