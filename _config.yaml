@@ -79,10 +79,10 @@ author:
 publication_category:
   books:
     title: 'Books'
-  research:
-    title: 'Working Papers'    
-  workinprogress:
-    title: 'Work in Progress'
+  Finance:
+    title: 'Finance'    
+  Theory:
+    title: 'Theory'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

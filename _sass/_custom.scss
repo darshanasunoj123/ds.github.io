@@ -1,0 +1,15 @@
+/* make the main column full width */
+.page__inner,
+.page__content,
+.initial-content .page {
+  max-width: none !important;
+  width: 100% !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* optional: hide the right sidebar if it's stealing space 
+.sidebar,
+.sidebar__right {
+  display: none;
+}*/
