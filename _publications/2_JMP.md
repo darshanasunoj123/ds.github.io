@@ -3,7 +3,7 @@ title: "Why Better Outside Options May Erode Bargaining Power"
 collection: publications
 category: Theory
 permalink: /publication/1_JMP
-excerpt: 'We study a dynamic bargaining setting with incomplete information and interdependent values in which the uninformed party has
+excerpt: 'I study a dynamic bargaining setting with incomplete information and interdependent values in which the uninformed party has
 an exercisable outside option. Unlike the private values case, interdependence introduces a double commitment problem for the
 uninformed party with the right to exercise the outside option. As bargaining frictions vanish, the seller trades with the buyer as
 long as profits are strictly greater than the expected value of the outside option and quits when indifferent. The main result of this
